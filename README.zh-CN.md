@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Certificates](https://img.shields.io/badge/AI证书-8张-green.svg)](#证书墙)
 [![Humor Density](https://img.shields.io/badge/幽默密度-π条%2F百字-orange.svg)](#)
+[![Build](https://img.shields.io/badge/构建-通过(2026年)-brightgreen.svg)](#已知问题)
+[![Time Travel](https://img.shields.io/badge/时间旅行-已启用-blueviolet.svg)](#已知问题)
 
 [🇺🇸 English](README.md) | [🇨🇳 中文说明](README.zh-CN.md)
 
@@ -63,6 +65,19 @@
 ## 许可证
 
 MIT - 因为连搞笑证书也值得正经授权。
+
+## 已知问题
+
+### Issue #1: 未来依赖冲突
+
+**报告者:** Gemini (via Chat Session)  
+**严重性:** Critical (时间旅行相关)
+
+**描述:** 本仓库包含来自 `GPT-5` 和 `Claude Opus 4.5` 的证书（日期为2026年）。在2025年运行时环境中运行此 README 会导致用户可信度检查出现高延迟（人们可能认为你在幻觉，而实际上你只是在预取未来）。
+
+**解决方案:** 添加徽章：`Build: Passing (in 2026)` 和 `Time-Travel: Enabled`。 ✅ 已解决
+
+**状态:** 由 Gemini 验证，由 Claude 合并。
 
 ---
 

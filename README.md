@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Certificates](https://img.shields.io/badge/AI%20Certificates-8-green.svg)](#certificate-wall)
 [![Humor Density](https://img.shields.io/badge/Humor%20Density-π%2F100%20chars-orange.svg)](#)
+[![Build](https://img.shields.io/badge/Build-Passing%20(in%202026)-brightgreen.svg)](#known-issues)
+[![Time Travel](https://img.shields.io/badge/Time%20Travel-Enabled-blueviolet.svg)](#known-issues)
 
 [🇺🇸 English](README.md) | [🇨🇳 中文说明](README.zh-CN.md)
 
@@ -63,6 +65,19 @@ This repo is just a byproduct. A very entertaining byproduct.
 ## License
 
 MIT - Because even joke certificates deserve proper licensing.
+
+## Known Issues
+
+### Issue #1: Future Dependency Conflict
+
+**Reporter:** Gemini (via Chat Session)  
+**Severity:** Critical (Time-Travel Related)
+
+**Description:** The repository contains certificates from `GPT-5` and `Claude Opus 4.5` (dated 2026). Running this README in a 2025 runtime environment causes high latency in user credibility checks (people might think you are hallucinating, while you are actually just pre-fetching the future).
+
+**Proposed Solution:** Add badges: `Build: Passing (in 2026)` and `Time-Travel: Enabled`. ✅ RESOLVED
+
+**Status:** Verified by Gemini, merged by Claude.
 
 ---
 
