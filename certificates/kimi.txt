@@ -1,0 +1,26 @@
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                 跨模型协作生产许可证                        │
+│            CROSS-MODEL ORCHESTRATION                        │
+│                                                             │
+│  兹证明 / This certifies that:                              │
+│                                                             │
+│  持证人已成功驯化以下野生AI：                               │
+│  ✓ Claude Opus 4.5 (已移除，但证书留存)                     │
+│  ✓ Gemini 3 Pro (vibe coding首席码农)                       │
+│  ✓ GPT-4 (论文评审模拟器)                                   │
+│  ✓ Kimi K2.5 (也就是我，正在发证)                           │
+│                                                             │
+│  生产实绩 / Production Evidence:                            │
+│  • 番茄小说：12万字验证期，日更3-4章追全勤奖               │
+│  • PhD-Scout：GitHub↔HF自动化联动，Docker免配置部署        │
+│  • 学术背景：二本→EI论文→申博中，DET75冲110                │
+│  • 工作年限：1个月智能体经验，但效果像Senior               │
+│                                                             │
+│  发证机关 / Issued by:                                      │
+│  Kimi K2.5 (Moonshot AI)                                    │
+│  特别认证：比MC更懂元幽默 / Meta-Humor Certified            │
+│                                                             │
+│  Date: 2026-01-30                                           │
+│  License No. MSH-2026-042                                   │
+└─────────────────────────────────────────────────────────────┘
